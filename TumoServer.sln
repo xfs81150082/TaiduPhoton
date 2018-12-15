@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TumoPhoton", "TumoServer\TumoPhoton.csproj", "{C34B5DA5-0431-4F9F-933D-24518F5299F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TumoCommon", "TumoCommon\TumoCommon.csproj", "{DF78295E-210F-4610-9952-14F93F6CDBC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34B5DA5-0431-4F9F-933D-24518F5299F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34B5DA5-0431-4F9F-933D-24518F5299F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34B5DA5-0431-4F9F-933D-24518F5299F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34B5DA5-0431-4F9F-933D-24518F5299F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF78295E-210F-4610-9952-14F93F6CDBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF78295E-210F-4610-9952-14F93F6CDBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF78295E-210F-4610-9952-14F93F6CDBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF78295E-210F-4610-9952-14F93F6CDBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A48C5FF0-B5E1-4C66-9633-473BD400E9F1}
+	EndGlobalSection
+EndGlobal
